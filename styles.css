@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fuentes{
+    font-size: 30px;
+    font-weight: bold;
+}
+.link1{
+    color: yellow;
+}
+.link1:hover{
+    color: green;
+    }
+.link2{
+    color:violet ;
+}
+    .link2:hover{
+        color: red;
+    }
